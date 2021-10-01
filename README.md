@@ -18,4 +18,4 @@
 
 ## Documentación endpoint
 
-Agregue aquí al documentación del endpoint elaborado.
+Se lee la información del Json con axios, y se seleccionan las columnas que se van autilizar (first_name, last_name, h_in).
